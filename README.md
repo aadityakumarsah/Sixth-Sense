@@ -32,7 +32,7 @@ Sixth Sense gives visually impaired users a **real-time AI narrator** for their 
 | 🎥 **Live Vision Narration** | Camera captures your surroundings every 15 seconds; Claude AI describes what it sees |
 | 🧭 **Navigation Guidance** | Kayla tells you what's ahead and which way to turn |
 | 🎙️ **Voice Commands** | Hands-free control with the **"Hey Kayla"** wake word |
-| 🚨 **SOS** | One tap calls 911 with a 15-second countdown |
+| 🚨 **SOS** | One tap calls 100 with a 15-second countdown |
 | 📱 **Emergency Contacts** | Instantly SMS your contacts when you need help |
 | 🧑‍💻 **AI Avatar** | Lip-synced avatar powered by HeyGen LiveAvatar for a human-like experience |
 
