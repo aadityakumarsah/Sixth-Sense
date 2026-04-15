@@ -124,9 +124,6 @@ PORT=3001
 
 Built at **DartHacks 2026** by:
 
-- **Aryav** — Developer
-- **Vrishank** — Developer
-- **Love** — Developer
 - **Aaditya** — Developer
 
 ---
@@ -137,4 +134,4 @@ Made with ❤️ for accessibility
 
 *Because everyone deserves to see the world.*
 
-</div># Sixth-Sense
+</div>
