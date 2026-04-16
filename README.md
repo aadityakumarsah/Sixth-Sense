@@ -7,7 +7,7 @@
 Built with ❤️ at **DartHacks 2026**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-sixth--sense-blue?style=for-the-badge&logo=vercel)](https://sixth-sense-iota.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Sixth--Sense-181717?style=for-the-badge&logo=github)](https://github.com/Aryav-T/Sixth-Sense)
+[![GitHub](https://img.shields.io/badge/GitHub-Sixth--Sense-181717?style=for-the-badge&logo=github)](https://github.com/aadityakumarsah/Sixth-Sense)
 
 ---
 
