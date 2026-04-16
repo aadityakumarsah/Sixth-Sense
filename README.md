@@ -75,7 +75,7 @@ Sixth Sense gives visually impaired users a **real-time AI narrator** for their 
 ### Installation
 
 ```bash
-git clone https://github.com/Aryav-T/Sixth-Sense
+git clone https://github.com/aadityakumarsah/Sixth-Sense
 cd Sixth-Sense
 ```
 
